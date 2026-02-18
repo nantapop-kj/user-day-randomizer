@@ -9,7 +9,7 @@ WORKDIR /app
 
 COPY .git .git
 
-COPY go.mod go.sum ./
+COPY go.mod ./
 
 RUN go mod tidy
 
