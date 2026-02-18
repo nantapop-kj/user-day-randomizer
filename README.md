@@ -56,3 +56,8 @@ Wed: Charlie, Frank, Paul
 Thu: David, Grace, Lily
 Fri: Henry, Jack, Kevin, Nina
 ```
+
+---
+
+## 📄 License
+MIT License
